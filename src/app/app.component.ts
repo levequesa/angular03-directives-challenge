@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular03-directives-challenge';
+  bonjourTitle : string = 'Bonjour !';
+  isAdmin : boolean = true;
+
 }
